@@ -1,0 +1,17 @@
+{
+  "name": "index-html-loader",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/pubsub": "^0.24.1",
+    "debug": "^4.1.1",
+    "esm": "^3.2.4",
+    "handlebars": "^4.1.0"
+  }
+}
