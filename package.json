@@ -1,6 +1,6 @@
 {
   "name": "index-html-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Load and cache index.html using GCP PubSub, works great with ember-cli-deploy",
   "keywords": [
     "ember-cli-deploy",
