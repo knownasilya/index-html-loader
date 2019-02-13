@@ -1,6 +1,6 @@
 # index-html-loader
 
-Load `index.html` from some source and compile it some data using handlebars.
+Load `index.html` from some source and compile it arbitrary data using handlebars.
 Subsequent requests will use the cache. Cache will be reset and prewarmed
 when the subscription is triggered in GCP PubSub.
 
