@@ -1,13 +1,21 @@
 {
   "name": "index-html-loader",
   "version": "1.0.0",
-  "description": "",
+  "description": "Load and cache index.html using GCP PubSub, works great with ember-cli-deploy",
+  "keywords": [
+    "ember-cli-deploy",
+    "index.html",
+    "cache",
+    "pubsub",
+    "deployment",
+    "invalidation"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "standard-version"
   },
-  "author": "",
+  "author": "Ilya Radchenko",
   "license": "ISC",
   "dependencies": {
     "@google-cloud/pubsub": "~0.24.1",
