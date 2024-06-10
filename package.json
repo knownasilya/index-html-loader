@@ -18,7 +18,7 @@
   "author": "Ilya Radchenko",
   "license": "ISC",
   "dependencies": {
-    "@google-cloud/pubsub": "~0.24.1",
+    "@google-cloud/pubsub": "~4.4.1",
     "debug": "^4.1.1",
     "esm": "^3.2.4",
     "handlebars": "^4.1.0"
